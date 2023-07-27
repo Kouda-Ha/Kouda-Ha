@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kouda-Ha
 - 👀 I’m interested in: English, Japanese and Video games programming.       
-- 🌱 I’m currently learning: Computer Games Technology, third year at MMU
-- 💞️ I’m looking to collaborate on: Translation JP - UK Eng and vice versa
+- 🌱 Computer Games Technology Graduate (MMU)
+- 💞️ I’m looking to collaborate on: Games Design, Project Management, Translation JP - UK Eng and vice versa
 - 📫 How to reach me: Twitter @Kouda_Ha
 
 <!---
